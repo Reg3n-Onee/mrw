@@ -6,6 +6,6 @@
     <title>Head Dashboard</title>
 </head>
 <body>
-    
+    <h1>Hi Hello</h1>
 </body>
 </html>
